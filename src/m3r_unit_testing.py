@@ -4,11 +4,11 @@ This module helps you understand:
   -- the difference between PRINT and RETURN
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
-         Aaron Wilkin, their colleagues, and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         Aaron Wilkin, their colleagues, and Ram Thiru.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 ###############################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #   Allow this module to use the  rosegraphics.py  module by marking the
 #     src
 #   folder in this project as a "Sources Root", as follows:
@@ -88,7 +88,7 @@ main()
 #
 #   A   run_test_blah   function does the following several times:
 #
-#     1.  The  HUMAN  tester figures out the CORRECT (EXPECTED) answer
+#     1 .  The  HUMAN  tester figures out the CORRECT (EXPECTED) answer
 #         on a particular test case, usually by working the problem
 #         by hand or by trusting a test case provided by the instructor.
 #
